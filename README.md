@@ -1,5 +1,13 @@
 # bullshit-school-report
 
+## dependencies
+
+```sh
+apt-get install node
+apt-get install npm
+npm i -g typescript
+```
+
 ## install
 
 ```sh
